@@ -1,1 +1,1 @@
-oodie Delivery is a web application designed to facilitate food ordering and delivery from local restaurants. The app provides a seamless and intuitive user experience with a focus on simplicity and ease of use.
+foodie Delivery is a web application designed to facilitate food ordering and delivery from local restaurants. The app provides a seamless and intuitive user experience with a focus on simplicity and ease of use.
